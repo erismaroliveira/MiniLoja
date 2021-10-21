@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "MiniLoja.Business/1.0.0": {
+        "runtime": {
+          "MiniLoja.Business.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MiniLoja.Business/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

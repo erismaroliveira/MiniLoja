@@ -1,0 +1,12 @@
+C:\Projetos-ASPNET-Core\MiniLoja\src\MiniLoja.Business\bin\Debug\net5.0\MiniLoja.Business.deps.json
+C:\Projetos-ASPNET-Core\MiniLoja\src\MiniLoja.Business\bin\Debug\net5.0\MiniLoja.Business.dll
+C:\Projetos-ASPNET-Core\MiniLoja\src\MiniLoja.Business\bin\Debug\net5.0\ref\MiniLoja.Business.dll
+C:\Projetos-ASPNET-Core\MiniLoja\src\MiniLoja.Business\bin\Debug\net5.0\MiniLoja.Business.pdb
+C:\Projetos-ASPNET-Core\MiniLoja\src\MiniLoja.Business\obj\Debug\net5.0\MiniLoja.Business.csproj.AssemblyReference.cache
+C:\Projetos-ASPNET-Core\MiniLoja\src\MiniLoja.Business\obj\Debug\net5.0\MiniLoja.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos-ASPNET-Core\MiniLoja\src\MiniLoja.Business\obj\Debug\net5.0\MiniLoja.Business.AssemblyInfoInputs.cache
+C:\Projetos-ASPNET-Core\MiniLoja\src\MiniLoja.Business\obj\Debug\net5.0\MiniLoja.Business.AssemblyInfo.cs
+C:\Projetos-ASPNET-Core\MiniLoja\src\MiniLoja.Business\obj\Debug\net5.0\MiniLoja.Business.csproj.CoreCompileInputs.cache
+C:\Projetos-ASPNET-Core\MiniLoja\src\MiniLoja.Business\obj\Debug\net5.0\MiniLoja.Business.dll
+C:\Projetos-ASPNET-Core\MiniLoja\src\MiniLoja.Business\obj\Debug\net5.0\ref\MiniLoja.Business.dll
+C:\Projetos-ASPNET-Core\MiniLoja\src\MiniLoja.Business\obj\Debug\net5.0\MiniLoja.Business.pdb

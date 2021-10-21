@@ -1,0 +1,15 @@
+C:\Projetos-ASPNET-Core\MiniLoja\src\MiniLoja.Data\bin\Debug\net5.0\MiniLoja.Data.deps.json
+C:\Projetos-ASPNET-Core\MiniLoja\src\MiniLoja.Data\bin\Debug\net5.0\MiniLoja.Data.dll
+C:\Projetos-ASPNET-Core\MiniLoja\src\MiniLoja.Data\bin\Debug\net5.0\ref\MiniLoja.Data.dll
+C:\Projetos-ASPNET-Core\MiniLoja\src\MiniLoja.Data\bin\Debug\net5.0\MiniLoja.Data.pdb
+C:\Projetos-ASPNET-Core\MiniLoja\src\MiniLoja.Data\bin\Debug\net5.0\MiniLoja.Business.dll
+C:\Projetos-ASPNET-Core\MiniLoja\src\MiniLoja.Data\bin\Debug\net5.0\MiniLoja.Business.pdb
+C:\Projetos-ASPNET-Core\MiniLoja\src\MiniLoja.Data\obj\Debug\net5.0\MiniLoja.Data.csproj.AssemblyReference.cache
+C:\Projetos-ASPNET-Core\MiniLoja\src\MiniLoja.Data\obj\Debug\net5.0\MiniLoja.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos-ASPNET-Core\MiniLoja\src\MiniLoja.Data\obj\Debug\net5.0\MiniLoja.Data.AssemblyInfoInputs.cache
+C:\Projetos-ASPNET-Core\MiniLoja\src\MiniLoja.Data\obj\Debug\net5.0\MiniLoja.Data.AssemblyInfo.cs
+C:\Projetos-ASPNET-Core\MiniLoja\src\MiniLoja.Data\obj\Debug\net5.0\MiniLoja.Data.csproj.CoreCompileInputs.cache
+C:\Projetos-ASPNET-Core\MiniLoja\src\MiniLoja.Data\obj\Debug\net5.0\MiniLoja.Data.csproj.CopyComplete
+C:\Projetos-ASPNET-Core\MiniLoja\src\MiniLoja.Data\obj\Debug\net5.0\MiniLoja.Data.dll
+C:\Projetos-ASPNET-Core\MiniLoja\src\MiniLoja.Data\obj\Debug\net5.0\ref\MiniLoja.Data.dll
+C:\Projetos-ASPNET-Core\MiniLoja\src\MiniLoja.Data\obj\Debug\net5.0\MiniLoja.Data.pdb
