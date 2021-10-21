@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31624.102
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MiniLoja.App", "src\DevIO.App\MiniLoja.App.csproj", "{5EBC972E-39CE-4207-A07E-D0439817A74A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MiniLoja.App", "src\MiniLoja.App\MiniLoja.App.csproj", "{5EBC972E-39CE-4207-A07E-D0439817A74A}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MiniLoja.Business", "src\DevIO.Business\MiniLoja.Business.csproj", "{B9AC3B53-C4A4-4BA9-B672-9AA26BCA90F4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MiniLoja.Business", "src\MiniLoja.Business\MiniLoja.Business.csproj", "{B9AC3B53-C4A4-4BA9-B672-9AA26BCA90F4}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MiniLoja.Data", "src\DevIO.Data\MiniLoja.Data.csproj", "{F168A67F-1C5C-4B73-A19A-78579DD44AB1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MiniLoja.Data", "src\MiniLoja.Data\MiniLoja.Data.csproj", "{F168A67F-1C5C-4B73-A19A-78579DD44AB1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
