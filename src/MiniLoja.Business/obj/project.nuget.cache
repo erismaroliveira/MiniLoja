@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "AdYcQS3S//gUsAy1mkuKTFFYjwzymywQKrFX9F+8iu+AlDbgX2fWK/zy8bYrCY+fb0hzkHdg+4N/qrAzS9S84Q==",
+  "dgSpecHash": "wIrE7knoJyzvYb3uYyUl+wnpqlXgsMGg0mfgdVpuef3g4k9whZrMH2S6v05cjzYa87IupE87jAq0GTgMx+QEVg==",
   "success": true,
   "projectFilePath": "C:\\Projetos-ASPNET-Core\\MiniLoja\\src\\MiniLoja.Business\\MiniLoja.Business.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\erism\\.nuget\\packages\\fluentvalidation\\10.3.3\\fluentvalidation.10.3.3.nupkg.sha512"
+  ],
   "logs": []
 }

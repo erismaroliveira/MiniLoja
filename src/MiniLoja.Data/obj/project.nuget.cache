@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "v8hA6lC5oZFmvE67U3fp0Kd+Nle+UnCKSYzfDw0i/VkbLim/D3zs2fOKfRGyeXNIgOZM7Y39ciRqtvM8dcAI1Q==",
+  "dgSpecHash": "QxVHtqLm+QbVRa/YReUofdGGGZkE3MnWLwc+gwWR1X0JewyZK0MThYYBoKdDTFn+PZ19dJ8Nk+bviGMOk4ZEqA==",
   "success": true,
   "projectFilePath": "C:\\Projetos-ASPNET-Core\\MiniLoja\\src\\MiniLoja.Data\\MiniLoja.Data.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\erism\\.nuget\\packages\\fluentvalidation\\10.3.3\\fluentvalidation.10.3.3.nupkg.sha512",
     "C:\\Users\\erism\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\erism\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",
     "C:\\Users\\erism\\.nuget\\packages\\microsoft.data.sqlclient.sni.runtime\\2.0.1\\microsoft.data.sqlclient.sni.runtime.2.0.1.nupkg.sha512",

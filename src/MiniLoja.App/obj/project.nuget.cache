@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "HuYGS11AZywSqMCMNT5bH1u0JusQCPylhRtluOAUgVRmPh9TWpsg8/J/cbpiRuEWlpoeiBg6motxkyxISCHcwA==",
+  "dgSpecHash": "uDvVtzS1O3fK47qA5aPDKmBjuqDdlZYn74kWdMnD43bbawYpXJWgRsY4UofWOJGh25c1B1VXnk75CHGKw0uRRw==",
   "success": true,
   "projectFilePath": "C:\\Projetos-ASPNET-Core\\MiniLoja\\src\\MiniLoja.App\\MiniLoja.App.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\erism\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\erism\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",
+    "C:\\Users\\erism\\.nuget\\packages\\fluentvalidation\\10.3.3\\fluentvalidation.10.3.3.nupkg.sha512",
     "C:\\Users\\erism\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\erism\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\5.0.9\\microsoft.aspnetcore.cryptography.internal.5.0.9.nupkg.sha512",
     "C:\\Users\\erism\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\5.0.9\\microsoft.aspnetcore.cryptography.keyderivation.5.0.9.nupkg.sha512",
