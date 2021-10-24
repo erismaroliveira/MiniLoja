@@ -180,3 +180,5 @@ C:\Projetos-ASPNET-Core\MiniLoja\src\MiniLoja.App\obj\Debug\net5.0\MiniLoja.App.
 C:\Projetos-ASPNET-Core\MiniLoja\src\MiniLoja.App\obj\Debug\net5.0\ref\MiniLoja.App.dll
 C:\Projetos-ASPNET-Core\MiniLoja\src\MiniLoja.App\obj\Debug\net5.0\MiniLoja.App.pdb
 C:\Projetos-ASPNET-Core\MiniLoja\src\MiniLoja.App\obj\Debug\net5.0\MiniLoja.App.genruntimeconfig.cache
+C:\Projetos-ASPNET-Core\MiniLoja\src\MiniLoja.App\bin\Debug\net5.0\FluentValidation.dll
+C:\Projetos-ASPNET-Core\MiniLoja\src\MiniLoja.App\obj\Debug\net5.0\Razor\Views\Shared\Components\Summary\Default.cshtml.g.cs
